@@ -1,0 +1,113 @@
+body {
+	/*background*/
+	background-color: #708090; 
+
+	/*texto*/
+	font-family: verdana;
+	color: #0D0D0D;
+	text-align: justify;
+
+	/*alinhamento e tamanho*/
+	width: 85%;
+	margin: auto;
+}
+
+/*Títulos*/
+h1 {
+	text-align: center; 
+	font-family: cursive;
+}
+
+h4 {
+	text-align: center; 
+	font-family: math;
+}
+
+#topo {
+	background-color: #038C7F;
+	padding: 20px;
+	margin-bottom: 0px;
+}
+
+#sumario {
+	background-color: Teal;
+	color: #F2E7DC;
+	padding: 20px;
+	margin-bottom: 0;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+}
+
+/*Links*/
+a:link {
+	color: #191970; /* link normal */
+}
+
+a:visited {
+	color: #95BFB8; /* link visitado */
+}
+
+a:hover {
+	color: #025454; /* mouse sobre o link */
+}
+
+a:visited {
+	color: #0D0D0D; /* link selecionado */
+}
+
+section {
+	padding: 64px 256px;
+}
+
+table {
+	text-align: center;
+	width: 100%;
+}
+
+th, td {
+	border: 3px solid white;
+	border-radius: 2px;
+	
+	padding: 8px;
+	text-align: center;
+}
+
+th {
+	background-color: #038C7F;
+	color: black;
+}
+
+td {
+	background-color: #A9D9D0;
+}
+
+tr {
+	background-color: #038C7F;
+}
+
+p {
+	text-align: justify;
+	text-indent: 50px;
+}
+
+/* Imagens */
+img {
+	width: 300px;
+	display: block;
+	margin: auto;
+	border-radius: 30px;
+}
+
+.titulo {
+	background-color: #A9D9D0;
+	color: #027373;
+	text-align: center;
+}
+
+#l1, #l3, #l5 {
+	background-color: #A9D9D0;
+}
+
+span {
+	color: #027373;
+}
